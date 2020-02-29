@@ -8,7 +8,3 @@
 	path = nehiljain.github.io
 	url = https://github.com/nehiljain/nehiljain.github.io.git
 	branch = master
-[submodule "public"]
-	path = public
-	url = https://github.com/nehiljain/nehiljain.github.io.git
-	branch = master
