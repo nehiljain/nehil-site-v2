@@ -4,3 +4,11 @@
 [submodule "themes/hugo-coder"]
 	path = themes/hugo-coder
 	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "nehiljain.github.io"]
+	path = nehiljain.github.io
+	url = https://github.com/nehiljain/nehiljain.github.io.git
+	branch = master
+[submodule "public"]
+	path = public
+	url = https://github.com/nehiljain/nehiljain.github.io.git
+	branch = master
