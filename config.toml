@@ -1,5 +1,5 @@
 title = "Nehil Jain"
-baseURL = "http://834ab189.ngrok.io/"
+baseURL = "https://clever-banach-29cd5c.netlify.com/"
 languageCode = "en-us"
 tags = ["data engineering", "machine learning", "analytics"]
 config = "config.toml"
