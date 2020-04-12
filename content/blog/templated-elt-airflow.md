@@ -1,9 +1,13 @@
 +++
-title = "Building Reuseable and Trustworthy ELT pipelines (A templated approach)"
+title = "Airflow Summit CFP 2020"
 date = 2020-04-11T22:28:14-04:00
 description = ""
-draft = true
 +++
+
+
+# Title
+
+Building Reuseable and Trustworthy ELT pipelines (A templated approach)
 
 # TLDR
 

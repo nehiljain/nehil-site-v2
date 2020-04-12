@@ -2,7 +2,6 @@
 title = "Year 2019 Review"
 date = 2020-03-13T22:51:50-04:00
 description = ""
-draft = true
 +++
 
 
