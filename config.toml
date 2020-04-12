@@ -1,36 +1,59 @@
-baseURL = "https://clever-banach-29cd5c.netlify.com/"
-languageCode = "en-us"
 title = "Nehil Jain"
-theme = "minimal"
-googleAnalytics = ""
+baseURL = "http://834ab189.ngrok.io/"
+languageCode = "en-us"
+tags = ["data engineering", "machine learning", "analytics"]
+config = "config.toml"
+theme = "osprey"
+googleAnalytics = "UA-163382820-1"
+canonifyURLS = true
+pygmentsUseClasses = true
+
+[markup]
+  [markup.highlight]
+    style = "github"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+[taxonomy]
+    tag = "tags"
+
+[permalinks]
+    blog = "/:year/:month/:day/:slug/"
+
 
 [params]
     author = "Nehil Jain"
+    tagline = "data, analytics & infrastructure"
     description = "🙏 I am Data Engineer who currently works at SnapTravel. I love solving problem for other comapnies who are struggling setting up reporting, infrastructure, data trust and/or reliability."
-    githubUsername = "nehiljain"
-    accent = "lightgrey"
-    showBorder = true
-    backgroundColor = "white"
-    font = "Raleway" # should match the name on Google Fonts!
-    highlight = true
-    highlightStyle = "solarized-dark"
-    highlightLanguages = ["sql", "python", "R", "javascript", "swift"]
-    profilePic = "images/profile.jpg"
+    headline = "Nehil Jain"
+    logoBig = "/images/profile.jpg"
+    logoSmall = "/images/profile.jpg"
+    favicon = "favicon.ico"
+    opengraphImage = ""
+    twitter = "nehiljain"
+    linkedin = "nehiljain"
+    github = "nehiljain"
+    email = "jain.nehil@gmail.com"
+    googleTagManager = ""
+    highlightJS = true
+    copyright = true
+    credit = true
+    customCSS = false
+    cacheBustCSS = false
+    cacheBustJS = false
+    ajaxFormspree = false
 
 [[menu.main]]
-    url = "/"
-    name = "Home"
+    name = "About"
+    url = "/#about"
     weight = 1
 
 [[menu.main]]
-    url = "/about/"
-    name = "About"
+    name = "Blog"
+    url = "/#blog"
     weight = 2
-
-[[menu.main]]
-    url = "/post/"
-    name = "Posts"
-    weight = 3
 
 
 # Social icons to be shown on the right-hand side of the navigation bar
