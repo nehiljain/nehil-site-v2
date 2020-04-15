@@ -1,5 +1,5 @@
 title = "Nehil Jain"
-baseURL = "https://clever-banach-29cd5c.netlify.com/"
+baseURL = "https://nehiljain.com/"
 languageCode = "en-us"
 tags = ["data engineering", "machine learning", "analytics"]
 config = "config.toml"
