@@ -6,3 +6,9 @@ tags: ["go", "golang", "hugo"]
 weight: 1
 draft: false
 ---
+
+
+Nothing about me building it
+from scratch is imp
+add where to contact you
+Reduce to 3 sentences

@@ -4,9 +4,8 @@ date: 2020-04-06T23:38:57-04:00
 draft: false
 ---
 
+Hello 🙏! I am Nehil, a data engineer based in Toronto. Currently, I'm helping to build the data team [SnapTravel](https://www.snaptravel.com/). Before that, I co-founded [Athletigen](https://athletigen.com/): a company which helps elite athletes with information from their DNA. 
 
-I have learnt a great deal about building data team and infrastructure for a fast moving business. Went from a single person doing both analytics and engineering to a team of 15. I have worked both with streaming and batch pipelines. Love using DBT for doing all the Transformations on the data to unlock the insights. 
+I have built the data team at SnapTravel from scratch and seen tremendous growth while playing various roles as the first data person in the organisation. My favourite data stack is Stitch, Snowplow, Airflow, DBT, Snowflake and Looker. 
 
-I studied electronics engineering and math but ended up being responsible for different things "data". I have been building systems and data teams ever since. 
-
-I love startups, chaos and building things on top of data. 
+I love startups, chaos and building things on top of data. I get excited by the idea of delivering values through data, platform infrastructure and analytics. I am open to advising or consulting work. Best place to reach me is via Email: jain.nehil@gmail.com

@@ -33,5 +33,6 @@ Target Audience:
 * Intermediate+ developers interested in supercharging their pipeline with Write Audit Publish pattern and reducing pipeline debt
 
 Links:
-CFP: https://pretalx.com/apache-airflow-summit-bay-area-2020/me/submissions/DFWRJC/
-Talk Outline: https://gist.github.com/nehiljain/8fc66eba4f2734ec6e4a9f372b1d9fc0
+
+* CFP: https://pretalx.com/apache-airflow-summit-bay-area-2020/me/submissions/DFWRJC/
+* Talk Outline: https://gist.github.com/nehiljain/8fc66eba4f2734ec6e4a9f372b1d9fc0
