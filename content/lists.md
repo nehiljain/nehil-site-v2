@@ -4,6 +4,13 @@ date: "2020-04-14"
 hideDate: true
 ---
 
+## Talks/Webinars
+
+- [Snowflake Office Hours: SnapTravel](https://resources.snowflake.com/youtube-all-videos/snowflake-office-hours-snaptravel) 2019
+- [Snowflake: Powering SnapTravel’s Data Economy](https://www.slideshare.net/nehiljain/snowflake-powering-snaptravels-data-economy), [BigDataTo 2019](https://www.bigdata-toronto.com/2019/speakers/nehil-jain/)
+- [Evolution of Data Infrastructure @ SnapTravel](https://docs.google.com/presentation/d/1XxAmrjlbE68fWam-HY_cYoqATjGAZ1M1cIeJn2ntRNk/edit?usp=sharing), [Toronto Women Data Group](https://www.meetup.com/Toronto-Womens-Data-Group/events/256099644/) 2018
+
+
 
 ## Other writings
 
