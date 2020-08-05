@@ -1,6 +1,5 @@
 ---
 title: "Lists"
-date: "2020-04-14"
 hideDate: true
 ---
 
