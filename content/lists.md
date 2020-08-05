@@ -6,8 +6,11 @@ hideDate: true
 
 ## Talks/Webinars
 
+- [Building reuseable and trustworthy ELT pipelines (A templated approach)](https://airflowsummit.org/sessions/building-reusable-trustworthy/), [Airflow Summit](https://www.youtube.com/watch?v=R4bp3_VyJ70) 2020
+- [Using Airflow to Orchestrate dbt](https://www.youtube.com/watch?v=Z6dPIXGj29M), [DBT Office Hours](https://github.com/nehiljain/talks/blob/master/dbt-office-hours-airflow-dbt-prod/presentation.pdf) 2020
+- [What is Analytics Engineering?](https://github.com/nehiljain/talks/blob/master/analytics-engineering/presentation.pdf), [Toronto Analytics Engineering Meetup](https://www.meetup.com/Toronto-Analytics-Engineering-Meetup/events/270490676/)  2020
 - [Snowflake Office Hours: SnapTravel](https://resources.snowflake.com/youtube-all-videos/snowflake-office-hours-snaptravel) 2019
-- [Snowflake: Powering SnapTravel’s Data Economy](https://www.slideshare.net/nehiljain/snowflake-powering-snaptravels-data-economy), [BigDataTo 2019](https://www.bigdata-toronto.com/2019/speakers/nehil-jain/)
+- [Snowflake: Powering SnapTravel’s Data Economy](https://www.slideshare.net/nehiljain/snowflake-powering-snaptravels-data-economy), [BigDataTo 2019](https://www.bigdata-toronto.com/2019/speakers/nehil-jain/) 2019
 - [Evolution of Data Infrastructure @ SnapTravel](https://docs.google.com/presentation/d/1XxAmrjlbE68fWam-HY_cYoqATjGAZ1M1cIeJn2ntRNk/edit?usp=sharing), [Toronto Women Data Group](https://www.meetup.com/Toronto-Womens-Data-Group/events/256099644/) 2018
 
 
@@ -29,7 +32,7 @@ hideDate: true
 - [DataOps Cookbook](https://www.datakitchen.io/content/DataKitchen_dataops_cookbook.pdf)
 - [THE Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/)
 
-## Open Source Projects 
+## Open Source Projects
 
 I follow or contribute to these open source prjects
 
