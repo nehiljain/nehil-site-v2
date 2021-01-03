@@ -1,8 +1,8 @@
----
-title: "Year 2020 Review"
-date: 2021-01-03T15:40:58-05:00
-draft: true
----
++++
+title = "Year 2020 Review"
+date = 2021-01-03T15:51:50-04:00
++++
+
 
 This only my second annual review on the blog but I have found introspection to be a great tool to clear the cluttered mind and help me get a direction. More often then not I am more grateful and elated after an introspection session. I have found that in general the bad memories/events seems to linger longer in my memory than the good ones; maybe its some kind of manifestation of the fight or flight response.  Introspection balances the good and the bad, doing it publicly is scary though. Goal is to write them every year 🙂 
 
