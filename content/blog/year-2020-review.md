@@ -1,7 +1,6 @@
 +++
 title = "Year 2020 Review"
 date = 2021-01-03T15:51:50-04:00
-draft = true
 +++
 
 This is my second one, written mostly for me but it may be interesting to you. I write these because I have found having time to reflect during an annual review to be a great tool to clear the cluttered mind and track progress towards my goal. It is like a writing meditation session of sorts. Completing the review is often a positive experience that leaves me feeling more grateful. This year was quite unique in many ways. Let's dive in.
