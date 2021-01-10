@@ -35,7 +35,7 @@ After 4 years at Snaptravel, it is time to move on to new adventures. It was an 
 
 ## **What I want to improve on**
 
-- **Streaming Data Pipelines:** At SnapTravel, I didn't get a chance to play much with stream processing. A goal for 2020 is to work on projects where I can deploy some Kafka, Flink, or Spark stream processing to production.
+- **Streaming Data Pipelines:** At SnapTravel, I didn't get a chance to play much with stream processing. A goal for 2021 is to work on projects where I can deploy some Kafka, Flink, or Spark stream processing to production.
 - **Data Insights Delivery**: I want to get better at driving the last mile of data projects in organisations. That is the decision making after we have unearthed some data-driven insight. Conveying data stories and insights to relevant decision-makers is an important skill I want to become better at.
 - **Ukulele**: I picked up the Ukulele during the holiday break. I would love to get good at finger-style playing this year
 - **Writing**: I am really bad at writing but it has so many benefits to me. I want to continue making progress in the quality and quantity of writing.
