@@ -22,5 +22,5 @@ This has led to the rise of a new era of infrastructure that supports a modern d
 - **Data Catalog and Governance**: To enable the use of data across your organisation managing the metadata is important. There is a lot of innovation happening in the open source space for building a data catalog tool that will enable highly collaborative environment for your users of the data platform.
 - **Advanced Analytics**: Presentation of business insights and operationalising predictions back to the consumer applications enable higher revenue and more efficient business operations of an enterprise.
 
-  > Modern data platforms can't be bought but they are built using lego blocks which are more plug and play.
+  > Modern data platforms can't be bought but they are built using plug and play blocks.
 
