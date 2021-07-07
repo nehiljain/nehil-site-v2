@@ -1,4 +1,11 @@
 
++++
+title = "What is the modern data platform?"
+date = 2021-07-06T22:28:14-04:00
+description = ""
++++
+
+
 The tooling and infrastructure that helps organisations extract value out of their data assets has changed dramatically in last decade. Among some of the key changes are 
 
 - **Move to the cloud**: Cloud presents an opportunity to use elastic computing resources and store data assets cheaply. This in turn drives powerful data warehousing technology like Big Query, Snowflake, Amazon Redshift, Firebolt etc. The pay per use model enables you to start small but quickly scale to massive amounts of data.
