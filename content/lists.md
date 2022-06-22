@@ -37,7 +37,7 @@ hideDate: true
 - [How We Improved Data Discovery for Data Scientists at Spotify](https://labs.spotify.com/2020/02/27/how-we-improved-data-discovery-for-data-scientists-at-spotify/)
 - [Why is dbt so important?](https://stephen.sh/posts/why-is-dbt-so-important)
 - [DataOps Cookbook](https://www.datakitchen.io/content/DataKitchen_dataops_cookbook.pdf)
-- [THE Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/)
+- [The Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/)
 
 ## Open Source Projects
 
