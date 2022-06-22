@@ -1,6 +1,6 @@
 ---
 title: "Lists"
-date: "2020-08-04"
+date: "2022-06-21"
 hideDate: true
 ---
 
@@ -17,6 +17,13 @@ hideDate: true
 
 ## Other writings
 
+- [Good Data Engineer/Bad Data Engineer](https://twitter.com/nehiljain/status/1490299948038041608?s=20&t=w6PzPODHZXhY8sNGHydRKA)
+- [Mental Model Data Leaders need to have to Setup an Elite Data team with Data Engineers](https://twitter.com/nehiljain/status/1482552544740130829)
+- [3 Q&As For You To Decide: If You Need a Machine Learning Engineer on your Team. If Yes, What Is Their Role?](https://twitter.com/nehiljain/status/1486712218272075777?)
+- [Dev/ML/Data Ops; What are the similarities and differences?](https://twitter.com/nehiljain/status/1487819527413026822?)
+- [Why is it hard to manage Data teams and deliverables? 3 problems and solutions](https://twitter.com/nehiljain/status/1481407651489718278?)
+- [5 Steps to implement Analytics as Code; Deliver data with confidence and speed](https://twitter.com/nehiljain/status/1485997184298405891?)
+- [3 Steps to implement DataOps; Data Leaders can now Supercharge their teams' delivery of Data-Driven Insights](https://twitter.com/nehiljain/status/1483128464119054340)
 - [Airflow Lessons Learned](https://medium.com/snaptravel/airflow-part-2-lessons-learned-793fa3c0841e)
 - [Lessons learnt while Airflow-ing](https://medium.com/@nehiljain/lessons-learnt-while-airflow-ing-32d3b7fc3fbf)
 - [Building a data pipeline to handle >50M events/day (with a startup budget) — Collection](https://medium.com/snaptravel/building-a-data-pipeline-to-handle-50m-events-day-with-a-startup-budget-part-1-636399bd00aa)
